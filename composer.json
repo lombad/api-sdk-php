@@ -1,0 +1,13 @@
+{
+    "name": "amitmerchant/array-utils",
+    "description": "Simple wrapper implementation of common PHP array methods",
+    "keywords": [
+        "amitmerchant",
+        "test-package"
+    ],
+    "homepage": "https://github.com/amitmerchant1990/array-utils",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    }
+}
