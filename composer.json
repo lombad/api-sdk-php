@@ -1,13 +1,13 @@
 {
-    "name": "amitmerchant/array-utils",
-    "description": "Simple wrapper implementation of common PHP array methods",
+    "name": "i-materialise/api-sdk-php",
+    "description": "i.materialise SDK for PHP",
     "keywords": [
-        "amitmerchant",
-        "test-package"
+        "i.materialise",
+        "sdk"
     ],
-    "homepage": "https://github.com/amitmerchant1990/array-utils",
+    "homepage": "https://github.com/lombad/api-sdk-php",
     "type": "library",
     "require": {
-        "php": "^7.1"
+        "php": "^7.3|^8.0"
     }
 }
